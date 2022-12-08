@@ -1,0 +1,610 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.122448,36.104561,6285 ]
+    },
+    "properties": {
+    "name":"Roan High Knob ",
+    "elevation":"6285 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.080509,36.099811,6160 ]
+    },
+    "properties": {
+    "name":"Grassy Ridge Bald",
+    "elevation":"6160 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.248678,35.852423,6327 ]
+    },
+    "properties": {
+    "name":"Celo Knob",
+    "elevation":"6327 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.249273,35.817668,6203 ]
+    },
+    "properties": {
+    "name":"Winter Star Mountain",
+    "elevation":"6203 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.255846,35.789705,6600 ]
+    },
+    "properties": {
+    "name":"Balsam Cone",
+    "elevation":"6600 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.261759,35.777584,6647 ]
+    },
+    "properties": {
+    "name":"Mount Craig",
+    "elevation":"6647 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.26506,35.764857,6684 ]
+    },
+    "properties": {
+    "name":"Mount Mitchell",
+    "elevation":"6684 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.285235,35.739124,6520 ]
+    },
+    "properties": {
+    "name":"Mount Gibbes",
+    "elevation":"6520 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.318615,35.738063,6320 ]
+    },
+    "properties": {
+    "name":"Blackstock Knob",
+    "elevation":"6320 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.366733,35.705964,6080 ]
+    },
+    "properties": {
+    "name":"Craggy Dome",
+    "elevation":"6080 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.85689,35.409993,6030 ]
+    },
+    "properties": {
+    "name":"Cold Mountain",
+    "elevation":"6030 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.862684,35.368301,6000 ]
+    },
+    "properties": {
+    "name":"Shining Rock",
+    "elevation":"6000 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.864016,35.348564,6040 ]
+    },
+    "properties": {
+    "name":"Grassy Cove Top",
+    "elevation":"6040 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.874571,35.328003,6214 ]
+    },
+    "properties": {
+    "name":"Black Balsam Knob",
+    "elevation":"6214 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.89493,35.32956,6040 ]
+    },
+    "properties": {
+    "name":"Sam Knob",
+    "elevation":"6040 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.888974,35.306848,6000 ]
+    },
+    "properties": {
+    "name":"Chestnut Bald",
+    "elevation":"6000 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.927605,35.30314,6120 ]
+    },
+    "properties": {
+    "name":"Mount Hardy",
+    "elevation":"6120 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.97712,35.35019,6080 ]
+    },
+    "properties": {
+    "name":"Reinhart Knob",
+    "elevation":"6080 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.990335,35.367588,6410 ]
+    },
+    "properties": {
+    "name":"Richland Balsam",
+    "elevation":"6410 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.150699,35.450866,6032 ]
+    },
+    "properties": {
+    "name":"Yellow Face",
+    "elevation":"6032 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.137812,35.464088,6292 ]
+    },
+    "properties": {
+    "name":"Waterrock Knob",
+    "elevation":"6292 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.110627,35.46371,6240 ]
+    },
+    "properties": {
+    "name":"Mount Lyn Lowery",
+    "elevation":"6240 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.088345,35.480224,6088 ]
+    },
+    "properties": {
+    "name":"Plott Balsam Mountain",
+    "elevation":"6088 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.436831,35.654352,6593 ]
+    },
+    "properties": {
+    "name":"Mount Le Conte",
+    "elevation":"6593 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.389906,35.630988,6217 ]
+    },
+    "properties": {
+    "name":"Mount Kephart",
+    "elevation":"6217 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.473046,35.586275,6188 ]
+    },
+    "properties": {
+    "name":"Mount Collins",
+    "elevation":"6188 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.498601,35.562919,6643 ]
+    },
+    "properties": {
+    "name":"Clingmans Dome",
+    "elevation":"6643 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.281982,35.677206,6003 ]
+    },
+    "properties": {
+    "name":"Mount Sequoyah",
+    "elevation":"6003 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.271089,35.686712,6417 ]
+    },
+    "properties": {
+    "name":"Mount Chapman",
+    "elevation":"6417 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.255426,35.715047,6370 ]
+    },
+    "properties": {
+    "name":"Old Black",
+    "elevation":"6370 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.257683,35.705311,6621 ]
+    },
+    "properties": {
+    "name":"Mount Guyot",
+    "elevation":"6621 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.248549,35.694384,6178 ]
+    },
+    "properties": {
+    "name":"Mount Yonaguska",
+    "elevation":"6178 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.248498,35.67999,6169 ]
+    },
+    "properties": {
+    "name":"Marks Knob",
+    "elevation":"6169 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.215382,35.692447,6234 ]
+    },
+    "properties": {
+    "name":"Luftee Knob",
+    "elevation":"6234 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.176182,35.672132,6155 ]
+    },
+    "properties": {
+    "name":"Big Cataloochee Mountain",
+    "elevation":"6155 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.256502,35.798413,6600 ]
+    },
+    "properties": {
+    "name":"Cattail Peak",
+    "elevation":"6600 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.444348,35.654476,6555 ]
+    },
+    "properties": {
+    "name":"Cliff Top",
+    "elevation":"6555 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.285986,35.73504,6520 ]
+    },
+    "properties": {
+    "name":"Clingmans Peak",
+    "elevation":"6520 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.25314,35.801537,6475 ]
+    },
+    "properties": {
+    "name":"Potato Hill",
+    "elevation":"6475 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.431579,35.6537,6443 ]
+    },
+    "properties": {
+    "name":"Myrtle Point",
+    "elevation":"6443 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.291246,35.729955,6400 ]
+    },
+    "properties": {
+    "name":"Potato Knob",
+    "elevation":"6400 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.986845,35.370766,6380 ]
+    },
+    "properties": {
+    "name":"Lickstone Ridge",
+    "elevation":"6380 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.453044,35.654548,6344 ]
+    },
+    "properties": {
+    "name":"West Point",
+    "elevation":"6344 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.275613,35.748951,6329 ]
+    },
+    "properties": {
+    "name":"Mount Hallback",
+    "elevation":"6329 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.14561,36.093185,6267 ]
+    },
+    "properties": {
+    "name":"Roan High Bluff",
+    "elevation":"6267 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.132159,35.463193,6240 ]
+    },
+    "properties": {
+    "name":"Browning Knob",
+    "elevation":"6240 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.247985,35.840947,6200 ]
+    },
+    "properties": {
+    "name":"Gibbs Mountain",
+    "elevation":"6200 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.247469,35.848025,6200 ]
+    },
+    "properties": {
+    "name":"Percy's Peak",
+    "elevation":"6200 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.130723,36.105014,6200 ]
+    },
+    "properties": {
+    "name":"Cloudland Mountain",
+    "elevation":"6200 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.254352,35.695761,6145 ]
+    },
+    "properties": {
+    "name":"Tricorner Knob",
+    "elevation":"6145 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.249029,35.688405,6134 ]
+    },
+    "properties": {
+    "name":"Mount Hardison",
+    "elevation":"6134 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.393057,35.624934,6120 ]
+    },
+    "properties": {
+    "name":"Mount Ambler",
+    "elevation":"6120 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.076068,36.096031,6120 ]
+    },
+    "properties": {
+    "name":"Grassy Ridge",
+    "elevation":"6120 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2242,35.693588,6080 ]
+    },
+    "properties": {
+    "name":"Thermo Knob",
+    "elevation":"6080 ft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.869165,35.337234,6040 ]
+    },
+    "properties": {
+    "name":"Tennent Mountain",
+    "elevation":"6040 ft"
+    }
+  }
+]
+}

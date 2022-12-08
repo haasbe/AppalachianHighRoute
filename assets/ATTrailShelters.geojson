@@ -1,0 +1,165 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4714,35.59374 ]
+    },
+    "properties": {
+    "name":"Mount Collins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3864,35.62969 ]
+    },
+    "properties": {
+    "name":"Icewater Spring"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3086,35.65074 ]
+    },
+    "properties": {
+    "name":"Pecks Corner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2567,35.69367 ]
+    },
+    "properties": {
+    "name":"Tricorner Knob"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1822,35.72708 ]
+    },
+    "properties": {
+    "name":"Cosby Knob"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1237,35.76922 ]
+    },
+    "properties": {
+    "name":"Davenport Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0263,35.78166 ]
+    },
+    "properties": {
+    "name":"Groundhog Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9386,35.82234 ]
+    },
+    "properties": {
+    "name":"Roaring Fork"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9367,35.83645 ]
+    },
+    "properties": {
+    "name":"Walnut Mountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8614,35.87583 ]
+    },
+    "properties": {
+    "name":"Deer Park Mountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7902,35.95148 ]
+    },
+    "properties": {
+    "name":"Spring Mountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7359,36.01499 ]
+    },
+    "properties": {
+    "name":"Little Laurel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6574,36.05647 ]
+    },
+    "properties": {
+    "name":"Jerry Cabin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5969,36.03479 ]
+    },
+    "properties": {
+    "name":"Flint Mountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5872,35.96395 ]
+    },
+    "properties": {
+    "name":"Hogback Ridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4783,36 ]
+    },
+    "properties": {
+    "name":"Bald Mountain"
+    }
+  }
+]
+}

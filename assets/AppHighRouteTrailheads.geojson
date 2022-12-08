@@ -1,0 +1,745 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.496,35.557 ]
+    },
+    "properties": {
+    "name":"Clingman's Dome Parking"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4695,35.5905 ]
+    },
+    "properties": {
+    "name":"Fork Ridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4465,35.6095]
+    },
+    "properties": {
+    "name":"Road Prong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.426,35.6105]
+    },
+    "properties": {
+    "name":"Newfound Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1114624,35.7707601 ]
+    },
+    "properties": {
+    "name":"Davenport Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1142991,35.7840884 ]
+    },
+    "properties": {
+    "name":"Pigeon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.996,35.774 ]
+    },
+    "properties": {
+    "name":"Brown Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9616571,35.7947312 ]
+    },
+    "properties": {
+    "name":"Max Patch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9374859459,35.8252499096 ]
+    },
+    "properties": {
+    "name":"Lemon Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8754386598,35.8533341248 ]
+    },
+    "properties": {
+    "name":"Genflo Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8326008475,35.8896535885 ]
+    },
+    "properties": {
+    "name":"South Hot Springs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	-82.8184171112,35.8925769637 ]
+    },
+    "properties": {
+    "name":"Lover's Leap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	-82.7895771008,35.9038502299 ]
+    },
+    "properties": {
+    "name":"Mill Ridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	-82.7911435318,35.910330262 ]
+    },
+    "properties": {
+    "name":"Tanyard Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8058890602,35.9354336193 ]
+    },
+    "properties": {
+    "name":"Hurricane Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	-82.7872931877,35.9869793332 ]
+    },
+    "properties": {
+    "name":"Allen Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	-82.7051532336,36.0316457139 ]
+    },
+    "properties": {
+    "name":"Camp Creek Bald"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.608522917,36.0104774314 ]
+    },
+    "properties": {
+    "name":"Devil Fork Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5609681562,35.9525100746 ]
+    },
+    "properties": {
+    "name":"Sams Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	-82.4199502324,36.0316516579 ]
+    },
+    "properties": {
+    "name":"Spivey Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.429,36.045 ]
+    },
+    "properties": {
+    "name":"Devil's Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3774943,36.0541648 ]
+    },
+    "properties": {
+    "name":"Lost Cove"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2843733,35.8767349 ]
+    },
+    "properties": {
+    "name":"Bowlens Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2650432,35.7671626 ]
+    },
+    "properties": {
+    "name":"Mount Mitchell State Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2833207,35.7256223 ]
+    },
+    "properties": {
+    "name":"NC 128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3342012,35.748658 ]
+    },
+    "properties": {
+    "name":"Walker Knob"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3437593,35.7351636 ]
+    },
+    "properties": {
+    "name":"Glassmine Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3646582,35.7111625 ]
+    },
+    "properties": {
+    "name":"Craggy Dome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3802364,35.7005188 ]
+    },
+    "properties": {
+    "name":"Craggy Gardens Visitor Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3916948,35.7000914 ]
+    },
+    "properties": {
+    "name":"Craggy Gardens Picnic Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3986936,35.6998031 ]
+    },
+    "properties": {
+    "name":"Snowball"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.408203,35.6950133 ]
+    },
+    "properties": {
+    "name":"Potato Field Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4616339,35.6652623 ]
+    },
+    "properties": {
+    "name":"Rattlesnake Lodge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4711756,35.6698407 ]
+    },
+    "properties": {
+    "name":"Bull Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4789537,35.6645489 ]
+    },
+    "properties": {
+    "name":"Ox Creek Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4912819,35.6480139 ]
+    },
+    "properties": {
+    "name":"Creven Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4913578,35.6174599 ]
+    },
+    "properties": {
+    "name":"Lunch Rock"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4894858,35.6013673 ]
+    },
+    "properties": {
+    "name":"381 Trailhead"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4804863,35.5925131 ]
+    },
+    "properties": {
+    "name":"Folk Art Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4866478,35.5655798 ]
+    },
+    "properties": {
+    "name":"Blue Ridge Parkway Visitor Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4938636,35.5618695 ]
+    },
+    "properties": {
+    "name":"US 74A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5193577,35.5245356 ]
+    },
+    "properties": {
+    "name":"Sweeden Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5295066,35.5181549 ]
+    },
+    "properties": {
+    "name":"US 25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5940709,35.5015959 ]
+    },
+    "properties": {
+    "name":"French Broad River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6022534,35.4823206 ]
+    },
+    "properties": {
+    "name":"Hardtimes Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6146383,35.4748304 ]
+    },
+    "properties": {
+    "name":"Walnut Cove Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6291239,35.4663188 ]
+    },
+    "properties": {
+    "name":"Sleepy Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6362349,35.4607651 ]
+    },
+    "properties": {
+    "name":"Chestnut Cove Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6597468,35.4527214 ]
+    },
+    "properties": {
+    "name":"Bent Creek Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6799178,35.4538344 ]
+    },
+    "properties": {
+    "name":"Beaver Dam Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6932435,35.4536575 ]
+    },
+    "properties": {
+    "name":"Stony Bald Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7087321,35.4506644 ]
+    },
+    "properties": {
+    "name":"Big Ridge Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.719942,35.4428787 ]
+    },
+    "properties": {
+    "name":"Mills River Valley Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7304299,35.4338893 ]
+    },
+    "properties": {
+    "name":"Elk Pasture Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.747513,35.4182459 ]
+    },
+    "properties": {
+    "name":"Mount Pisgah Parking"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.748513,35.4152459 ]
+    },
+    "properties": {
+    "name":"Buck Spring Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.75356,35.4036191 ]
+    },
+    "properties": {
+    "name":"Mount Pisgah Inn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7897055,35.3670957 ]
+    },
+    "properties": {
+    "name":"US 276"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8151496,35.3358131 ]
+    },
+    "properties": {
+    "name":"Cherry Cove Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8280882,35.3217195 ]
+    },
+    "properties": {
+    "name":"Skinny Dip Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8762428,35.3202154 ]
+    },
+    "properties": {
+    "name":"Art Loeb Trail"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9093233,35.3037842 ]
+    },
+    "properties": {
+    "name":"NC 215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9647933,35.3216009 ]
+    },
+    "properties": {
+    "name":"Bear Pen Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0373529,35.3905194 ]
+    },
+    "properties": {
+    "name":"Doubletop Mountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0455761,35.4099303 ]
+    },
+    "properties": {
+    "name":"Grassy Ridge Mine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0867088,35.4410648 ]
+    },
+    "properties": {
+    "name":"The Orchards Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1033032,35.4526378 ]
+    },
+    "properties": {
+    "name":"Woodfin Cascades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.117644,35.4595998 ]
+    },
+    "properties": {
+    "name":"Fork Ridge Overlook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1411191,35.4601409 ]
+    },
+    "properties": {
+    "name":"Waterrock Knob"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.15768,35.495236 ]
+    },
+    "properties": {
+    "name":"Soco Gap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.179162,35.5107359 ]
+    },
+    "properties": {
+    "name":"Balsam Mountain Loop Drive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.300789,35.5057338 ]
+    },
+    "properties": {
+    "name":"Blue Ridge Parkway South Terminus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3061793,35.5138135 ]
+    },
+    "properties": {
+    "name":"Oconaluftee Visitor Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3091749,35.5206993 ]
+    },
+    "properties": {
+    "name":"Mingus Mill"
+    }
+  }
+]
+}
